@@ -2,10 +2,10 @@
     "firstName":"Willem",
     "lastName":"Dafoe",
     "preferredName":"Green Goblin",
-    "email":"WillyD@hotmail.com"
+    "email":"WillyD@hotmail.com",
     "phoneNumber":"",
     "city":"New York City",
     "state":"NY",
-    "favoriteHobby":"Dressing like a Goblin"
+    "favoriteHobby":"Dressing like a Goblin",
     "seatLocation":""
 }
